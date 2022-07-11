@@ -15,7 +15,7 @@ Revision History
 |          |      |             |         |
 |          |      |             |         |
 
-#Table of Content
+Table of Content
 
 1. Overview
     1.1  PicoRioCPU2641300
