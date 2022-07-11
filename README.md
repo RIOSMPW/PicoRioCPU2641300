@@ -88,7 +88,7 @@ LED display and so on.
 2. Architecture
 ===============
 
-![](media/e42686d83e63a6b39d293368280ea942.png)
+![](https://github.com/riosmpw/PicoRioCPU2641300/blob/main/docs/source/_static/picorio2641300.PNG?raw=true)
 
 3. Features
 ===========
